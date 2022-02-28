@@ -20,8 +20,8 @@ public class FirstSelenium {
   
      
     //Maximize the browser  
-     driver.manage().window().maximize();  
-     driver.quit();
+    // driver.manage().window().maximize();  
+    // driver.quit();
      
          
        
